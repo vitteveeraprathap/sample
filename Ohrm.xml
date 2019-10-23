@@ -1,0 +1,7 @@
+<suite name="demo">
+  <test name="reg1">
+     <classes>
+        <class name="com.tng.ohrm.AddEmpWithoutpom"  />
+     </classes>
+  </test>
+</suite>
